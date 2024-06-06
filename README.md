@@ -1,2 +1,1 @@
-# idea-demo
-idea学习
+IDEA和SpringBoot简单学习
